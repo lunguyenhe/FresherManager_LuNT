@@ -1,0 +1,13 @@
+package com.vmo.FresherManager_LuNT;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FresherManagerLuNtApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FresherManagerLuNtApplication.class, args);
+	}
+
+}
